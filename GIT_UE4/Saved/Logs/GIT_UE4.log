@@ -916,3 +916,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.28-22.05.09:189][769]LogSlate: WidgetSwitcher ('None') active index changed to 2
 [2020.03.28-22.05.20:707][150]LogSlate: WidgetSwitcher ('None') active index changed to 3
 [2020.03.28-22.05.54:256][169]LogSlate: Window 'New Project' being destroyed
+[2020.03.28-22.09.39:792][699]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.28-22.09.39:792][699]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.28-22.09.45:147][299]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.03.28-22.09.46:250][431]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.03.28-22.09.48:996][760]LogSlate: Window 'New Project' being destroyed
