@@ -898,3 +898,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.28-21.52.07:582][  0]LogAssetRegistry: Asset discovery search completed in 5.1136 seconds
 [2020.03.28-21.52.07:584][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2020.03.28-21.52.07:585][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A6AD84A-4241-60D3-2E29-84A72F9CB23D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=cf0c83934c71400faf3c4a82a2b73a4a%7Cb1818427389a40b88bb4735da4fd1094%7C26b5be4b-676c-4a24-bcc2-a1f1e6cc40e5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x13e53be7f70 [can pipeline])
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#1))
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.28-21.59.29:148][117]LogHttp: Warning: 0000013E2FEFF240: libcurl info message cache 7 (Closing connection 1)
+[2020.03.28-21.59.29:482][118]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A6AD84A-4241-60D3-2E29-84A72F9CB23D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=cf0c83934c71400faf3c4a82a2b73a4a%7Cb1818427389a40b88bb4735da4fd1094%7C26b5be4b-676c-4a24-bcc2-a1f1e6cc40e5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.28-22.05.03:591][133]LogUProjectInfo: Found projects:
+[2020.03.28-22.05.03:594][133]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.03.28-22.05.03:594][133]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.03.28-22.05.03:642][133]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.28-22.05.09:189][769]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2020.03.28-22.05.20:707][150]LogSlate: WidgetSwitcher ('None') active index changed to 3
+[2020.03.28-22.05.54:256][169]LogSlate: Window 'New Project' being destroyed
