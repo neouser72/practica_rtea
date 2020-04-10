@@ -605,3 +605,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-19.43.37:283][196]LogSlate: Took 0.017732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.04.10-19.43.50:693][472]LogSlate: Took 0.028374 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.10-19.43.52:407][624]LogSlate: Window 'Open Level' being destroyed
+[2020.04.10-21.05.15:433][947]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.10-21.05.24:568][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.04.10-21.05.24:569][974]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.035
+[2020.04.10-21.05.24:570][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Sergi/Material_nuevo] ([1] browsable assets)...
+[2020.04.10-21.05.24:600][974]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Sergi/Material_nuevo.Material_nuevo]
+[2020.04.10-21.05.24:600][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Sergi/Material_nuevo]
+[2020.04.10-21.05.24:643][974]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Material_nuevo_Auto13D0042074908A0153DEFA7AFEA34E6A9.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Autosaves/Game/StarterContent/Sergi/Material_nuevo_Auto1.uasset'
+[2020.04.10-21.05.24:649][974]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.04.10-21.05.59:470][976]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.10-21.06.02:428][255]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.10-21.06.04:828][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.04.10-21.06.05:103][443]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_DefaultAF9A94A84972EC6385615895ECA12778.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.04.10-21.06.05:151][443]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_Default_BuiltDataC3F79B59469921528B682EAB32570294.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.04.10-21.06.05:168][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-21.06.05:168][443]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.04.10-21.06.05:168][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
