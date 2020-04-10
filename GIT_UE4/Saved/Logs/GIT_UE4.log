@@ -648,3 +648,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-21.09.06:137][565]SourceControl: Commited [sergi58 44f1d24] Cambios.
 [2020.04.10-21.12.45:130][130]SourceControl: fatal: D:/UR4/UE_4.24/Engine/Content: 'D:/UR4/UE_4.24/Engine/Content' is outside repository at 'D:/Documents/GitHub/practica_rtea'
 [2020.04.10-21.12.45:192][130]EditorErrors: Warning: No assets to check in!
+[2020.04.10-21.15.12:956][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.10-21.15.13:589][129]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_Default9EB3DF014F1FBCBE396070BBA81D3835.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.04.10-21.15.13:709][129]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_Default_BuiltData3F603C9C4AB9C074604C9DBF48B5BD93.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.04.10-21.15.13:721][129]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-21.15.13:721][129]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.04.10-21.15.13:721][129]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.04.10-21.15.17:140][441]SourceControl: fatal: D:/UR4/UE_4.24/Engine/Content: 'D:/UR4/UE_4.24/Engine/Content' is outside repository at 'D:/Documents/GitHub/practica_rtea'
+[2020.04.10-21.15.25:598][441]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.10-21.15.26:155][441]LogSourceControl: commit successful: [sergi58 e53d4d7] Hola
+[2020.04.10-21.15.26:211][441]SourceControl: [sergi58 e53d4d7] Hola
+[2020.04.10-21.15.26:211][441]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.10-21.15.26:217][441]SourceControl: Commited [sergi58 e53d4d7] Hola.
