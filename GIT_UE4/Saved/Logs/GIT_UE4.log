@@ -621,3 +621,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-21.06.05:168][443]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.10-21.06.05:168][443]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.04.10-21.06.05:168][443]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.04.10-21.08.23:636][893]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.10-21.08.28:297][273]SourceControl: fatal: D:/UR4/UE_4.24/Engine/Content: 'D:/UR4/UE_4.24/Engine/Content' is outside repository at 'D:/Documents/GitHub/practica_rtea'
+[2020.04.10-21.08.28:375][273]EditorErrors: Warning: No assets to check in!
+[2020.04.10-21.08.33:772][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.04.10-21.08.33:867][648]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_Default224BF4B64C443BF5B5F1608A3A7E6BA0.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.04.10-21.08.33:995][648]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Minimal_Default_BuiltData6F274D26446820A1C575D3A38D712D47.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.04.10-21.08.34:008][648]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-21.08.34:008][648]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.04.10-21.08.34:008][648]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.04.10-21.08.42:096][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.04.10-21.08.42:099][327]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Nuevo_nivelCC0225E74B934E5F1BFA5B9E0830DE04.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Sergi/Nuevo_nivel.umap'
+[2020.04.10-21.08.42:284][327]LogFileHelpers: Saving map 'Nuevo_nivel' took 0.223
+[2020.04.10-21.08.42:285][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Sergi/Material_nuevo" FILE="../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Sergi/Material_nuevo.uasset" SILENT=true
+[2020.04.10-21.08.42:286][327]LogSavePackage: Moving '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Saved/Material_nuevo4902F66A428A7BCE0E8CB5B6EB9E8E78.tmp' to '../../../../../Documents/GitHub/practica_rtea/GIT_UE4/Content/StarterContent/Sergi/Material_nuevo.uasset'
+[2020.04.10-21.08.42:463][327]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.10-21.08.42:463][327]LogContentValidation: Display: Validating World /Game/StarterContent/Sergi/Nuevo_nivel.Nuevo_nivel
+[2020.04.10-21.08.42:463][327]LogContentValidation: Display: Validating Material /Game/StarterContent/Sergi/Material_nuevo.Material_nuevo
+[2020.04.10-21.08.45:144][565]SourceControl: fatal: D:/UR4/UE_4.24/Engine/Content: 'D:/UR4/UE_4.24/Engine/Content' is outside repository at 'D:/Documents/GitHub/practica_rtea'
+[2020.04.10-21.09.05:381][565]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.10-21.09.06:010][565]LogSourceControl: commit successful: [sergi58 44f1d24] Cambios
+[2020.04.10-21.09.06:129][565]SourceControl: [sergi58 44f1d24] Cambios
+[2020.04.10-21.09.06:129][565]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2020.04.10-21.09.06:129][565]SourceControl:  create mode 100644 GIT_UE4/Content/StarterContent/Sergi/Material_nuevo.uasset
+[2020.04.10-21.09.06:129][565]SourceControl:  create mode 100644 GIT_UE4/Content/StarterContent/Sergi/Nuevo_nivel.umap
+[2020.04.10-21.09.06:137][565]SourceControl: Commited [sergi58 44f1d24] Cambios.
+[2020.04.10-21.12.45:130][130]SourceControl: fatal: D:/UR4/UE_4.24/Engine/Content: 'D:/UR4/UE_4.24/Engine/Content' is outside repository at 'D:/Documents/GitHub/practica_rtea'
+[2020.04.10-21.12.45:192][130]EditorErrors: Warning: No assets to check in!
