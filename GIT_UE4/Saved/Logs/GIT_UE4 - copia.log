@@ -627,3 +627,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.10-21.21.21:202][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LOW_WEPON2)
 [2020.04.10-21.21.22:192][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2020.04.10-21.21.27:887][452]LogRenderer: Reallocating scene render targets to support 1164x548 Format 10 NumSamples 1 (Frame:3460).
+[2020.04.10-21.30.57:755][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.10-21.30.57:878][683]LogSavePackage: Moving 'E:/GIT/practica_rtea/GIT_UE4/Saved/Minimal_Default_Auto10B63E915443300F256182EA3957C0D1B.tmp' to 'E:/GIT/practica_rtea/GIT_UE4/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.04.10-21.30.57:883][683]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.154
+[2020.04.10-21.30.57:883][683]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
